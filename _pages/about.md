@@ -13,4 +13,4 @@ I am currently a PhD student of Management Science and Engineering at Stanford U
 
 I am interested in simulation, stochastic optimization, and robust decision making under uncertainty.
 
-I am expected to graduate at 2021, and I will join [Two Sigma Investment](https://www.twosigma.com) as a quantative researcher after my graduation.
+I am expected to graduate in 2021. I will join [Two Sigma Investment](https://www.twosigma.com) as a quantative researcher after my graduation.
