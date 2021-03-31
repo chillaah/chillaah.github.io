@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-# Journal Paper Under Review
+# Journal Papers Under Review
 ------------
 1. [Robustifying Conditional Portfolio Decisions via Optimal Transport](
     https://arxiv.org/abs/2103.16451
