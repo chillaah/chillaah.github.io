@@ -11,28 +11,26 @@ author_profile: true
 )<br>
 <small>Viet Anh Nguyen, **Fan Zhang**, Jose Blanchet, Erick Delage, Yinyu Ye<br>
 <em>Under Review</em></small>
-2. [Optimal Transport Based Distributionally Robust Optimization: Structural Properties and Iterative Schemes](
-    https://arxiv.org/abs/1810.02403
-)<br>
-<small>Jose Blanchet, Karthyek Murthy, **Fan Zhang**<br>
-<em>Under Review</em></small>
-3. [Efficient Scenario Generation for Heavy-tailed Chance Constrained Optimization](
+2. [Efficient Scenario Generation for Heavy-tailed Chance Constrained Optimization](
     https://arxiv.org/abs/2002.02149
 )<br>
 <small>Jose Blanchet, **Fan Zhang**, Bert Zwart<br>
 <em>Under Review</em></small>
-4. [Distributional Robust Batch Contextual Bandits](
+3. [Distributional Robust Batch Contextual Bandits](
     https://arxiv.org/abs/2006.05630)<br>
 <small>Nian Si, **Fan Zhang**, Zhengyuan Zhou, Jose Blanchet<br>
 <em>Under Review</em></small>
 
 # Journal Publication
 ------------
-
-1. [Exact Simulation for Multivariate Itô Diffusions]( https://www.cambridge.org/core/journals/advances-in-applied-probability/article/abs/exact-simulation-for-multivariate-ito-diffusions/580E7AF2DC0A4081487A88762918CF31)<br>
+1. [Optimal Transport Based Distributionally Robust Optimization: Structural Properties and Iterative Schemes](
+    https://arxiv.org/abs/1810.02403
+)<br>
+<small>Jose Blanchet, Karthyek Murthy, **Fan Zhang**<br>
+<em>Accepted by Mathematics of Operations Research</em></small>
+2. [Exact Simulation for Multivariate Itô Diffusions]( https://www.cambridge.org/core/journals/advances-in-applied-probability/article/abs/exact-simulation-for-multivariate-ito-diffusions/580E7AF2DC0A4081487A88762918CF31)<br>
 <small>Jose Blanchet, **Fan Zhang**<br>
-<em>Advances of Applied Probability, 52.4, December 2020. </em></small><br>
-
+<em>Advances of Applied Probability, 52.4, December 2020. </em></small>
 
 # Conference Preceedings
 ------------
