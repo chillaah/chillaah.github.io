@@ -21,7 +21,7 @@ author_profile: true
 <small>Nian Si, **Fan Zhang**, Zhengyuan Zhou, Jose Blanchet<br>
 <em>Under Review</em></small>
 
-# Journal Publication
+# Journal Publications
 ------------
 1. [Optimal Transport Based Distributionally Robust Optimization: Structural Properties and Iterative Schemes](
     https://arxiv.org/abs/1810.02403
