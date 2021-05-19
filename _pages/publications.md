@@ -32,7 +32,7 @@ author_profile: true
 <small>Jose Blanchet, **Fan Zhang**<br>
 <em>Advances of Applied Probability, 52.4, December 2020. </em></small>
 
-# Conference Preceedings
+# Conference Proceedings
 ------------
 
 1. [Distributionally Robust Local Non-parametric Conditional Estimation](https://papers.nips.cc/paper/2020/file/adf854f418fc96fb01ad92a2ed2fc35c-Paper.pdf
