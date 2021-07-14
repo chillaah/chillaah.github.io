@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student of Management Science and Engineering at Stanford University, advised by Professor [Jose Blanchet](https://web.stanford.edu/~jblanche/). I received the BE degree in Electronic Engineering and the BS degree in Mathematics from Tsinghua University (2015), the MS degree in Operations Research from Columbia University (2016). I am a member of the [Operations Research Group](http://or.stanford.edu), and the
-[Advanced Financial Technologies Laboratory](https://fintech.stanford.edu/people/all/grid/grouped).
+I am currently a quantitative researcher at [Two Sigma Investment](https://www.twosigma.com). I received my PhD of Management Science and Engineering from Stanford University (2021), advised by Professor [Jose Blanchet](https://web.stanford.edu/~jblanche/). Prior to that, I got the BE degree in Electronic Engineering and the BS degree in Mathematics from Tsinghua University (2015), the MS degree in Operations Research from Columbia University (2016). I was a member of the [Operations Research Group](http://or.stanford.edu), and the [Advanced Financial Technologies Laboratory](https://fintech.stanford.edu/people/all/grid/grouped).
 
-I am interested in simulation, stochastic optimization, and robust decision-making under uncertainty.
-
-I am expected to graduate in May 2021. I will join [Two Sigma Investment](https://www.twosigma.com) as a quantitative researcher after my graduation.
+My research interests include simulation, stochastic optimization, and robust decision-making under uncertainty.
