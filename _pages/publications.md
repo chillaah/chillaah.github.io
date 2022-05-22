@@ -23,11 +23,9 @@ author_profile: true
     https://arxiv.org/abs/2006.05630)<br>
 <small>Nian Si, **Fan Zhang**, Zhengyuan Zhou, Jose Blanchet<br>
 <em>To appear in Management Science</em><br>
-**2021 MSOM Student Paper Prize Finalist**
-</small>
+**2021 MSOM Student Paper Prize Finalist**</small>
 2. [Optimal Transport Based Distributionally Robust Optimization: Structural Properties and Iterative Schemes](
-    https://arxiv.org/abs/1810.02403
-)<br>
+    https://arxiv.org/abs/1810.02403)<br>
 <small>Jose Blanchet, Karthyek Murthy, **Fan Zhang**<br>
 <em>Mathematics of Operations Research (2021)</em></small>
 3. [Exact Simulation for Multivariate Itô Diffusions]( https://www.cambridge.org/core/journals/advances-in-applied-probability/article/abs/exact-simulation-for-multivariate-ito-diffusions/580E7AF2DC0A4081487A88762918CF31)<br>
