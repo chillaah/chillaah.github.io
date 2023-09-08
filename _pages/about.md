@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a quantitative researcher at [Two Sigma Investments](https://www.twosigma.com). I received my PhD in Management Science and Engineering from Stanford University (2021), advised by Professor [Jose Blanchet](https://web.stanford.edu/~jblanche/). Prior to that, I received the BE degree in Electronic Engineering and the BS degree in Mathematics from Tsinghua University (2015), and the MS degree in Operations Research from Columbia University (2016). I was a member of the [Operations Research Group](http://or.stanford.edu), and the [Advanced Financial Technologies Laboratory](https://fintech.stanford.edu/).
+I am currently pursuing BE Mechatronics @ [Queensland University of Technology](https://www.qut.edu.au/). Previously (2022), I was a Summer Robotics Intern @ [CSIRO's Data61 Robotics & Autonomous Systems Group](https://research.csiro.au/data61/) working on Quadrupedal Terrain Traversability.
 
-My research interests include applied probability, Monte-Carlo simulation, stochastic optimization, and robust decision-making under uncertainty.
+Please feel free to reach out :)
