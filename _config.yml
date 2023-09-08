@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chiran Walisundara"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Chiran Walisundara"
 description              : &description "Mechatronics @ QUT"
@@ -83,7 +83,7 @@ author:
   name             : "Chiran Walisundara"
   avatar           : "1.png"
   bio              : "Mechatronics @ QUT"
-  location         : "Brisbane"
+  location         : "Brisbane, AU"
   employer         :
   pubmed           :
 #  googlescholar    : "https://scholar.google.com/citations?user=CIM8RVMAAAAJ&hl=en"
