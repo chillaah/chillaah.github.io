@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+# Let Me Cook 👨🏽‍🍳
+
 <!---
 # Journal Publications
 ------------
