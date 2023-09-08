@@ -8,11 +8,10 @@ author_profile: true
 
 # Sessional Academic
 ------------
-[School of Mathematical Sciences, Faculty of Science, QUT](
+[School of Mathematical Sciences @ QUT](
     https://www.qut.edu.au/about/faculty-of-science/school-of-mathematical-sciences
 )<br>
-<small>**Supervisor: Dr Ryan Heneghan**<br>
-<em>2021</em></small>
+<small>**Supervisor: Dr Ryan Heneghan** (2021)<br>
 
 <!---
 {% include base_path %}
