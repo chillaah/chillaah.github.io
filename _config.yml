@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fan Zhang"
+title                    : "Chiran Walisundara"
 title_separator          : "-"
-name                     : &name "Fan Zhang"
-description              : &description "Quant @ TS"
-url                      : https://AndyZhang92.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chiran Walisundara"
+description              : &description "CS @ QUT"
+url                      : https://chillaah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AndyZhang92/AndyZhang92.github.io"
+repository               : "chillaah/chillaah.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fan Zhang"
+  name             : "Chiran Walisundara"
   avatar           : "1.png"
-  bio              : "Quant @ TS"
-  location         : "New York"
+  bio              : "CS @ QUT"
+  location         : "Brisbane"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=CIM8RVMAAAAJ&hl=en"
-  email            : "fzh@stanford.edu"
-  researchgate     : "https://www.researchgate.net/profile/Fan_Zhang261"
+#  googlescholar    : "https://scholar.google.com/citations?user=CIM8RVMAAAAJ&hl=en"
+  email            : "chiran@engineer.com"
+#  researchgate     : "https://www.researchgate.net/profile/Fan_Zhang261"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AndyZhang92"
+  github           : "chillaah"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "fan-zhang-a04932109/"
+  linkedin         : "chiranw/"
   orcid            :
   pinterest        :
   soundcloud       :
