@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing BE Mechatronics @ [Queensland University of Technology](https://www.qut.edu.au/). 
+I am currently pursuing BE Mechatronics (Hons) @ [Queensland University of Technology](https://www.qut.edu.au/). 
 
 Previously (2022), I was a Summer Robotics Intern @ [CSIRO's Data61 Robotics & Autonomous Systems Group](https://research.csiro.au/data61/) working on Quadrupedal Terrain Traversability.
 
