@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chiran Walisundara"
 title_separator          : "-"
 name                     : &name "Chiran Walisundara"
-description              : &description "CS @ QUT"
+description              : &description "Mechatronics @ QUT"
 url                      : https://chillaah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chillaah/chillaah.github.io"
@@ -179,7 +179,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true

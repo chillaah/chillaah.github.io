@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!---
 # Journal Publications
 ------------
 1. [Efficient Scenario Generation for Heavy-tailed Chance Constrained Optimization](
@@ -69,7 +70,7 @@ https://arxiv.org/pdf/1705.07168.pdf
 )<br>
 <small>Jose Blanchet, Yang Kang, **Fan Zhang**, Fei He, Zhangyi Hu<br>
 <em>Proceedings of the 18th Conference of the Applied Stochastic Models and Data Analysis (ASMDA 2019)</em></small><br>
-
+-->
 
 <!---
 {% if author.googlescholar %}
