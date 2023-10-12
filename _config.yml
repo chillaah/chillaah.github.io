@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Chiran Walisundara"
-description              : &description "Mechatronics @ QUT"
+description              : &description "Computer & Software Systems @ QUT"
 url                      : https://chillaah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chillaah/chillaah.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chiran Walisundara"
   avatar           : "1.png"
-  bio              : "Mechatronics @ QUT"
+  bio              : "Computer & Software Systems @ QUT"
   location         : "Australia"
   employer         :
   pubmed           :
